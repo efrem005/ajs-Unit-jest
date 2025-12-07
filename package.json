@@ -4,6 +4,7 @@
   "description": "**Важно**: каждая задача выполняется в виде отдельного проекта с собственным GitHub репозиторием.",
   "main": "index.js",
   "scripts": {
+    "lint": "eslint .",
     "test": "jest --coverage"
   },
   "author": "Nikolay Efremov",
